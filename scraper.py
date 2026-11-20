@@ -8,7 +8,7 @@ Estrategia:
      Si ese endpoint estuviera bloqueado, usa el sitemap + /products/<handle>.js.
   2. Completa el código de barras (GTIN) de cada variante desde /products/<handle>.js.
      Se guarda en caché en feed.json, así solo se consulta para productos nuevos.
-  3. Escribe feed.json, feed.csv, feed.xml (formato de referencia) y feed_google.xml (completo).
+  3. Escribe kronotime.xml (un ítem por producto) y feed.json (datos crudos + caché).
 
 Uso:  pip install requests
       python scraper.py
@@ -472,6 +472,85 @@ def generar_google_xml(productos, ruta):
           f"({omitidos} productos agotados omitidos)")
 
 
+# ---------- 3b. Feed en el formato de referencia (catalogo El Ganso: un ítem por producto) ----------
+
+ARCHIVO_XML = "kronotime.xml"
+
+# Tipo de producto en singular para product_type y la descripción
+TIPO_SINGULAR = {"Relojes": "Reloj", "Gafas de sol": "Gafas de sol", "Correas": "Correa",
+                 "Joyería": "Joya", "Accesorios": "Accesorio"}
+
+
+def generar_xml_catalogo(productos, ruta=ARCHIVO_XML):
+    items = []
+    for p in productos:
+        nombre_orig = p["nombre"]
+        if not nombre_orig or "GIFT" in nombre_orig.upper() or "TARJETA DE REGALO" in nombre_orig.upper():
+            continue
+        variantes = [v for v in p["variantes"] if v.get("precio")]
+        imagen = next((v["imagen"] for v in variantes if v.get("imagen")), None) or \
+                 (p["imagenes"][0] if p["imagenes"] else None)
+        if not variantes or not imagen:
+            continue  # Google rechaza productos sin precio o sin imagen
+
+        nombre = limpiar_nombre(nombre_orig)
+        marca = FORMA_FIJA.get(p["marca"].upper(), p["marca"].title()) if p["marca"] else "Kronotime"
+        tipo = TIPO_SINGULAR.get(clasificar(p)[0], "Accesorio")
+
+        disponibles = [v for v in variantes if v["disponible"]]
+        # Precio: el de la primera variante disponible (o la primera, si está todo agotado)
+        ref = disponibles[0] if disponibles else variantes[0]
+        precio, tachado = ref["precio"], ref.get("precio_tachado")
+
+        # ID estable: SKU de la primera variante; si no tiene, el ID de producto de Shopify
+        pid = (variantes[0].get("sku") or "").strip() or str(p["product_id"])
+
+        desc = f"{tipo} {marca}: {nombre}."
+        opciones = [v["opciones"] for v in disponibles if v.get("opciones")]
+        if opciones:
+            desc += f" Opciones disponibles: {', '.join(opciones)}."
+        elif not disponibles:
+            desc += " Sin unidades disponibles por el momento."
+        if p["descripcion"]:
+            desc += f" {p['descripcion']}"
+
+        gtin = gtin_valido(ref.get("barcode"))
+        campos = [
+            ("g:id", pid),
+            ("g:title", nombre[:150]),
+            ("g:description", desc[:5000]),
+            ("g:link", p["url"]),
+            ("g:image_link", imagen),
+            ("g:availability", "in_stock" if disponibles else "out_of_stock"),
+        ]
+        if tachado and float(tachado) > float(precio):
+            campos += [("g:price", precio_fmt(tachado)), ("g:sale_price", precio_fmt(precio))]
+        else:
+            campos += [("g:price", precio_fmt(precio))]
+        campos += [
+            ("g:brand", marca),
+            ("g:product_type", tipo),
+            ("g:condition", "new"),
+            ("g:gtin", gtin) if gtin else ("g:identifier_exists", "no"),
+        ]
+        lineas = [f"      <{k}>{esc(val)}</{k}>" for k, val in campos if val]
+        items.append("    <item>\n" + "\n".join(lineas) + "\n    </item>")
+
+    xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">\n'
+        "  <channel>\n"
+        "    <title>Feed de productos Kronotime</title>\n"
+        f"    <link>{BASE}</link>\n"
+        "    <description>Catalogo completo de productos</description>\n"
+        + "\n".join(items) +
+        "\n  </channel>\n</rss>\n"
+    )
+    with open(ruta, "w", encoding="utf-8") as f:
+        f.write(xml)
+    print(f"{ruta}: {len(items)} productos")
+
+
 # ---------- 4. Escribir los feeds ----------
 
 def main():
@@ -499,22 +578,7 @@ def main():
         json.dump({"generado": generado, "total": len(productos), "productos": productos},
                   f, ensure_ascii=False, indent=2)
 
-    campos = ["product_id", "variant_id", "sku", "barcode", "marca", "nombre", "opciones", "precio",
-              "precio_tachado", "disponible", "url", "imagen"]
-    with open("feed.csv", "w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=campos)
-        w.writeheader()
-        for p in productos:
-            for v in p["variantes"]:
-                w.writerow({
-                    "product_id": p["product_id"], "marca": p["marca"], "nombre": p["nombre"],
-                    "url": p["url"],
-                    **{k: v.get(k) for k in ("variant_id", "sku", "barcode", "opciones", "precio",
-                                             "precio_tachado", "disponible")},
-                    "imagen": v.get("imagen") or (p["imagenes"][0] if p["imagenes"] else ""),
-                })
-
-    generar_google_xml(productos, "feed.xml")
+    generar_xml_catalogo(productos)
 
     if time.time() - INICIO > TIEMPO_MAX:
         print("AVISO: se alcanzó el tiempo máximo; los códigos de barras faltantes se completan en la próxima corrida",
