@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-21T19:57:27.549616+00:00",
+  "generado": "2026-11-21T20:54:33.019645+00:00",
   "total": 10000,
   "productos": [
     {
@@ -11805,8 +11805,7 @@
       "tags": [
         "EnviogratisTag",
         "INVICTA",
-        "PRO DIVER",
-        "URBANEX"
+        "PRO DIVER"
       ],
       "descripcion": ":description Quartz 43 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 49703 pro diver para men, tamaño de la caja 43 mm de stainless steel, tamaño del pulso 185 mm de stainless steel, color steel, pulso de 185 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Stainless Steel Color Pulso : Steel Ancho pulso [mm] : 22 Largo pulso [mm] : 185 Color Bisel : Grey BezelMaterial : Brass Marca : INVICTA BuckleType : Fold over safety Calendario : None Material Caja : Stainless Steel Diseño Caja : Circular Color Caja : Steel Ancho Caja [mm] : 43 ClaspType : Safety Cristal : Mineral ChronographFunction : None Color : Steel País : Singapore Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : White LuminousMaterial : New Lite Material : Stainless Steel MovementCaliber : PC20S MovementComponents : Singapore MovementJewels : No SwissMade : No StoneType : None ShortDescription : INVICTA Pro Diver Men 43mm Stainless Steel Steel Grey dial PC20S Quartz Tipo : Quartz Resistencia al Agua [m] : 100 family : PF22579 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -26109,8 +26108,7 @@
         "PARENT_4549526425738",
         "PLATEADO",
         "RELOJ CASIO CASIO CO",
-        "UNISEX",
-        "URBANEX"
+        "UNISEX"
       ],
       "descripcion": ":description Análogo 35 [mm] 30 [m] DESCRIPCIÓN Reloj casio mq-24da-1adf casio collection para unisex, tamaño de la caja 35 mm de acero inoxidable, tamaño del pulso 220 mm de acero inoxidable, color plateado, pulso de 220 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Plateado Ancho pulso [mm] : 18 Largo pulso [mm] : 220 Color Bisel : Negro Marca : Casio Calendario : No Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Plateado Ancho Caja [mm] : 35 ClaspType : Broche Mariposa Cristal : Mineral Color : Plateado País : Japón Tipo de Función : Cuarzo Género : Unisex Material : Acero Inoxidable MovementJewels : No SwissMade : No ShortDescription : Reloj Casio Casio Collection MQ-24DA-1ADF, caja 35mm Plateado, esfera Negro, correa acero Inoxidable plateado, 30m WR Tipo : Análogo Resistencia al Agua [m] : 30 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -125164,7 +125162,7 @@
           ],
           "precio": 609950.0,
           "precio_tachado": 1039900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -427411,7 +427409,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -433177,7 +433175,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
