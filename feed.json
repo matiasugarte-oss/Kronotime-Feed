@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-21T15:57:54.985077+00:00",
+  "generado": "2026-11-21T16:58:44.984759+00:00",
   "total": 10000,
   "productos": [
     {
@@ -762,7 +762,7 @@
           ],
           "precio": 839900.0,
           "precio_tachado": 839900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -793,7 +793,7 @@
           ],
           "precio": 1119900.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -18044,7 +18044,7 @@
           ],
           "precio": 6899900.0,
           "precio_tachado": 6899900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -26504,7 +26504,7 @@
           ],
           "precio": 129900.0,
           "precio_tachado": 239900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -176935,8 +176935,8 @@
             "Title"
           ],
           "precio": 394950.0,
-          "precio_tachado": 789900.0,
-          "disponible": false,
+          "precio_tachado": 799900.0,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -265352,7 +265352,7 @@
           ],
           "precio": 624950.0,
           "precio_tachado": 919900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -267351,8 +267351,7 @@
         "RELOJES",
         "SILICONA",
         "TOMMY HILFIGER",
-        "TOMMYHILFIGER",
-        "URBANEX"
+        "TOMMYHILFIGER"
       ],
       "descripcion": "Reloj tommy hilfiger 1710649 1710649 para hombre, tamaño de la caja 46 mm de acero inoxidable, tamaño del pulso 220 mm de silicona, color azul, pulso de 220 mm, resistencia al agua hasta 50 metros Análogo 46 [mm] 50 [m] DESCRIPCIÓN Reloj tommy hilfiger 1710649 1710649 para hombre, tamaño de la caja 46 mm de acero inoxidable, tamaño del pulso 220 mm de silicona, color azul, pulso de 220 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Silicona Color Pulso : Azul Ancho pulso [mm] : 23 Largo pulso [mm] : 220 Color Bisel : Azul Marca : Tommy Hilfiger Calendario : Cronógrafo Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Plateado Ancho Caja [mm] : 46 ClaspType : Hebilla Cristal : Mineral Color : Azul País : China Tipo de Función : Cuarzo Género : Hombre Material : Silicona MovementJewels : No SwissMade : No ShortDescription : El modelo presenta una esfera de cronógrafo azul texturizada con tres subesferas azules. La esfera también presenta índices de bastón blancos luminosos y manecillas de horas, minutos y segundos plateadas luminosas.Un bisel plateado y una caja de acero inoxidable enmarcan la esfera. La caja mide 46 mm de diámetro. Las características del reloj incluyen una subesfera de fecha y día. El reloj está terminado con una correa de silicona azul que se abrocha con un broche de hebilla. Tipo : Análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -318881,7 +318880,6 @@
         "TECHNOMARINE",
         "TF1264",
         "TMI",
-        "URBANEX",
         "VD54"
       ],
       "descripcion": ":description Quartz 41.00 [mm] 5 [m] DESCRIPCIÓN Reloj technomarine tm 225113 aqua quadrant para hombres, tamaño de la caja 41.00 mm de acero inoxidable, tamaño del pulso 206.70 mm de silicona, color negro, pulso de 206.70 mm, resistencia al agua hasta 5 metros DETALLES Material Pulso : Silicona Color Pulso : Negro Ancho pulso [mm] : 30.90 Largo pulso [mm] : 206.70 Color Bisel : Negro BezelMaterial : Metal Marca : Technomarine Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Gris, oro rosa Ancho Caja [mm] : 41.00 ClaspType : Hebilla Cristal : Mineral Color : Negro Tipo de Función : Quartz Género : Hombre LuminousColor : Blanco LuminousMaterial : Nuevo Lite Material : Silicona MovementCaliber : VD54 MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 5 family : TF1264 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -328055,8 +328053,7 @@
         "PARENT_7613272682800",
         "PLATEADO",
         "RECTANGULAR",
-        "TOMMY HILFIGER",
-        "URBANEX"
+        "TOMMY HILFIGER"
       ],
       "descripcion": ":description Análogo 36 [mm] 30 [m] DESCRIPCIÓN Reloj tommy hilfiger 1710760 1710760 para hombre, tamaño de la caja 36 mm de acero inoxidable, tamaño del pulso 210 mm de cuero, color café, pulso de 210 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : Cuero Color Pulso : Café Ancho pulso [mm] : 18 Largo pulso [mm] : 210 Color Bisel : Azul Marca : Tommy Hilfiger Calendario : Cronógrafo Material Caja : Acero Inoxidable Diseño Caja : Rectangular Color Caja : Plateado Ancho Caja [mm] : 36 ClaspType : Hebilla Cristal : Mineral Color : Café País : China Tipo de Función : Cuarzo Género : Hombre Material : Cuero MovementJewels : No SwissMade : No ShortDescription : Este reloj Tommy Hilfiger, perteneciente a la familia TH-Oxford y diseñado para hombre, se distingue por su elegante forma de caja y su estilo multifuncional. La caja de acero inoxidable plateado tiene una forma Tonneau. Tipo : Análogo Resistencia al Agua [m] : 30 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -328216,8 +328213,7 @@
         "PLATEADO",
         "RELOJ DE HOMBRE TOMM",
         "SILICóN",
-        "TOMMY HILFIGER",
-        "URBANEX"
+        "TOMMY HILFIGER"
       ],
       "descripcion": ":description Análogo 43 [mm] 30 [m] DESCRIPCIÓN Reloj tommy hilfiger 1710739 1710739 para hombre, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 210 mm de silicón, color negro, pulso de 210 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : Silicón Color Pulso : Negro Ancho pulso [mm] : 21 Largo pulso [mm] : 210 Color Bisel : Negro Marca : Tommy Hilfiger Calendario : No Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Plateado Ancho Caja [mm] : 43 ClaspType : Hebilla Cristal : Mineral Color : Negro País : China Tipo de Función : Cuarzo Género : Hombre Material : Silicón MovementJewels : No SwissMade : No ShortDescription : Reloj de hombre TOMMY HILFIGER, serie Stewart, con caja de 42 mm de diámetro, correa de caucho y esfera negra. Tipo : Análogo Resistencia al Agua [m] : 30 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -347816,8 +347812,7 @@
         "MINERAL",
         "NO",
         "PARENT_7613272661195",
-        "TOMMY HILFIGER",
-        "URBANEX"
+        "TOMMY HILFIGER"
       ],
       "descripcion": ":description Análogo 39 [mm] 50 [m] DESCRIPCIÓN Reloj tommy hilfiger 1792221 1792221 para hombre, tamaño de la caja 39 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color marrón, pulso de 220 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Cuero Color Pulso : Marrón Ancho pulso [mm] : 21 Largo pulso [mm] : 220 Color Bisel : Marrón Marca : Tommy Hilfiger Calendario : Cronógrafo Material Caja : Acero Inoxidable Diseño Caja : Cuadrado Color Caja : Bronce Ancho Caja [mm] : 39 ClaspType : Hebilla Cristal : Mineral Color : Marrón País : China Tipo de Función : Cuarzo Género : Hombre Material : Cuero MovementJewels : No SwissMade : No ShortDescription : Este reloj Tommy Hilfiger tiene una caja de acero inoxidable de 39 mm de diámetro y una correa de cuero. En su interior se encuentra un movimiento Seiko Instruments Inc. y el reloj cuenta con un cristal mineral. Es resistente a 5 ATM. Tipo : Análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -396609,7 +396604,8 @@
         "NO",
         "PLATEADO",
         "RELOJES",
-        "RELOJFESTINAMADEMOIS"
+        "RELOJFESTINAMADEMOIS",
+        "URBANEX"
       ],
       "descripcion": "Reloj festina f20601/1 mademoiselle para mujer, tamaño de la caja 30 mm de acero inoxidable, tamaño del pulso 195 mm de acero inoxidable, color dorado, pulso de 195 mm, resistencia al agua hasta 50 metros Análogo 30 [mm] 50 [m] DESCRIPCIÓN Reloj festina f20601/1 mademoiselle para mujer, tamaño de la caja 30 mm de acero inoxidable, tamaño del pulso 195 mm de acero inoxidable, color dorado, pulso de 195 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Dorado Ancho pulso [mm] : 18 Largo pulso [mm] : 195 Color Bisel : Plateado Marca : Festina Calendario : No Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Dorado Ancho Caja [mm] : 30 ClaspType : Desplegable Cristal : Mineral Color : Dorado País : China Tipo de Función : Cuarzo Género : Mujer Material : Acero Inoxidable MovementJewels : No SwissMade : No ShortDescription : Reloj Festina Mademoiselle para mujer Tipo : Análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -401583,8 +401579,7 @@
         "RELOJTOMMY",
         "TOMMY HILFIGER",
         "TOMMYHILFIGER",
-        "TOMMYHILFIGER1710722",
-        "URBANEX"
+        "TOMMYHILFIGER1710722"
       ],
       "descripcion": "Reloj tommy hilfiger 1710722 cronografo para hombre, tamaño de la caja 40 mm de acero inoxidable, tamaño del pulso 220 mm de acero inoxidable, color plateado, pulso de 220 mm, resistencia al agua hasta 100 metros Análogo 40 [mm] 100 [m] DESCRIPCIÓN Reloj tommy hilfiger 1710722 cronografo para hombre, tamaño de la caja 40 mm de acero inoxidable, tamaño del pulso 220 mm de acero inoxidable, color plateado, pulso de 220 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Plateado Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Azul Marca : Tommy Hilfiger Calendario : Cronógrafo Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Plateado Ancho Caja [mm] : 40 ClaspType : Desplegable Cristal : Mineral Color : Plateado País : China Tipo de Función : Cuarzo Género : Hombre Material : Acero Inoxidable MovementJewels : No SwissMade : No ShortDescription : Tommy Hilfiger1710722 Reloj cronógrafo con correa de pulsera para hombre, plateado Tipo : Análogo Resistencia al Agua [m] : 100 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -401699,8 +401694,7 @@
         "RELOJES",
         "RELOJTOMMYHILFIGER17",
         "TOMMY HILFIGER",
-        "TOMMYHILFIGER",
-        "URBANEX"
+        "TOMMYHILFIGER"
       ],
       "descripcion": "Reloj tommy hilfiger 1710720 cronografo para hombre, tamaño de la caja 41 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color marrón, pulso de 220 mm, resistencia al agua hasta 50 metros Análogo 41 [mm] 50 [m] DESCRIPCIÓN Reloj tommy hilfiger 1710720 cronografo para hombre, tamaño de la caja 41 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color marrón, pulso de 220 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Cuero Color Pulso : Marrón Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Azul Marca : Tommy Hilfiger Calendario : Cronógrafo Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Plateado Ancho Caja [mm] : 41 ClaspType : Hebilla Cristal : Mineral Color : Marrón País : China Tipo de Función : Cuarzo Género : Hombre Material : Cuero MovementJewels : No SwissMade : No ShortDescription : Reloj Tommy Hilfiger 1710720 Tipo : Análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -457531,8 +457525,8 @@
             "Title"
           ],
           "precio": 499950.0,
-          "precio_tachado": 999900.0,
-          "disponible": false,
+          "precio_tachado": 919900.0,
+          "disponible": true,
           "imagen": null
         }
       ]
