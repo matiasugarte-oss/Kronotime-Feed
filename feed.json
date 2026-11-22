@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-21T23:52:03.514117+00:00",
+  "generado": "2026-11-22T01:25:39.996170+00:00",
   "total": 10000,
   "productos": [
     {
@@ -76,6 +76,7 @@
         "ESPECIALIDAD",
         "INVICTA",
         "MED",
+        "URBANEX",
         "VUELTAPMED"
       ],
       "descripcion": ":description Análogo 43 [mm] 50 [m] DESCRIPCIÓN Reloj invicta 50778 especialidad para hombre, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 186 mm de acero inoxidable, color verde, pulso de 186 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Verde Ancho pulso [mm] : 22 Largo pulso [mm] : 186 Color Bisel : Transparente Marca : Invicta Calendario : No Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Verde Ancho Caja [mm] : 43 ClaspType : Desplegable Cristal : Mineral Color : Verde País : China Tipo de Función : Cuarzo Género : Hombre Material : Acero Inoxidable MovementJewels : No SwissMade : No ShortDescription : Reloj invicta 50778 para Hombre Tipo : Análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -813,6 +814,7 @@
       "tags": [
         "ESPECIALIZADOS",
         "INVICTA",
+        "URBANEX",
         "VUELTAP"
       ],
       "descripcion": ":description Análogo 43 [mm] 50 [m] DESCRIPCIÓN Reloj invicta 48312 especializados para hombre, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 186 mm de acero inoxidable, color dorado, pulso de 186 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Dorado Ancho pulso [mm] : 22 Largo pulso [mm] : 186 Color Bisel : Negro Marca : Invicta Calendario : No Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Dorado Ancho Caja [mm] : 43 ClaspType : Desplegable Cristal : Mineral Color : Dorado País : China Tipo de Función : Cuarzo Género : Hombre Material : Acero Inoxidable MovementJewels : No SwissMade : No ShortDescription : Reloj Invicta 48312 para Hombre Tipo : Análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -19707,7 +19709,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -36867,6 +36869,7 @@
         "SEGURIDAD",
         "SEGURIDAD AL DOBLAR",
         "TMI",
+        "URBANEX",
         "VD53",
         "VUELTAP"
       ],
@@ -43948,7 +43951,6 @@
         "SINGAPORE",
         "STAINLESS STEEL",
         "TMI",
-        "URBANEX",
         "VUELTAP",
         "VUELTAPMED",
         "WHITE"
@@ -48233,6 +48235,7 @@
         "SEGURIDAD",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VERDE",
         "VUELTAP"
       ],
@@ -100859,6 +100862,7 @@
         "SEGURIDAD",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VERDE CLARO",
         "VUELTAP"
       ],
@@ -126175,8 +126179,7 @@
         "STAR",
         "TECHNOMARINE",
         "TF0165",
-        "TRITNITE",
-        "URBANEX"
+        "TRITNITE"
       ],
       "descripcion": ":description Análogo 45 [mm] 200 [m] DESCRIPCIÓN Reloj technomarine tm-115216 cruise para hombre, tamaño de la caja 45 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color beige, pulso de 210 mm, resistencia al agua hasta 200 metros DETALLES Material Pulso : Silicona Color Pulso : Beige Ancho pulso [mm] : 29 Largo pulso [mm] : 210 Color Bisel : Oro BezelMaterial : Metal Marca : TECHNOMARINE Calendario : Si Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Dorado Ancho Caja [mm] : 45 ClaspType : Regular Cristal : Flame Fusion ChronographFunction : 12 horas Color : Beige País : Japón Tipo de Función : Quartz Género : Hombre LuminousColor : Blanco LuminousMaterial : Tritnite Material : Silicona MovementCaliber : OS60 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguna ShortDescription : desc_corta Tipo : Análogo Resistencia al Agua [m] : 200 serie : Star family : TF0165 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -335848,8 +335851,7 @@
         "PILOTO",
         "POLICARBONATO",
         "Sí",
-        "TOMMY HILFIGER",
-        "URBANEX"
+        "TOMMY HILFIGER"
       ],
       "descripcion": ":description :Type :CaseSize [mm] :WaterResistance [m] DESCRIPCIÓN Gafas tommy hilfiger color dorado para hombre protección 100% lente en policarbonato gris de 57 piloto DETALLES Marca : Tommy Hilfiger Ancho del puente [mm] : 18 País : China Color : Dorado Material del Marco : Metal Color del Marco : Dorado Diseño del Marco : Piloto Género : Hombre Material del Lente : Policarbonato Color del Lente : Gris Ancho del Lente [mm] : 57 Material : Metal Name : Lentes De Sol Hombre Tommy Hilfiger Outlook X62208 Polarizado : Sí Largo de las patillas [mm] : 132 Color de las patillas : Habana Protección UV : 100% Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -342569,6 +342571,7 @@
         "SILICONA",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD54",
         "VERDE MILITAR",
         "VUELTAP"
@@ -342629,6 +342632,7 @@
         "SILICONA",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD54",
         "VUELTAP"
       ],
@@ -352776,6 +352780,7 @@
         "SILICONA",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD54",
         "VERDE OLIVA",
         "VUELTAP"
@@ -387945,6 +387950,7 @@
         "SILICONA",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD54",
         "VUELTAP"
       ],
@@ -391881,6 +391887,7 @@
         "SPEEDWAY",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD53",
         "VUELTAP"
       ],
@@ -548338,6 +548345,7 @@
         "SEGURIDAD",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VERDE",
         "VUELTAPMED"
       ],
