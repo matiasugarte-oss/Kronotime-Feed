@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-22T05:11:28.049954+00:00",
+  "generado": "2026-11-22T06:09:11.037960+00:00",
   "total": 10000,
   "productos": [
     {
@@ -11522,7 +11522,7 @@
           ],
           "precio": 704950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -15177,7 +15177,7 @@
           ],
           "precio": 549900.0,
           "precio_tachado": 549900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -19347,7 +19347,7 @@
           ],
           "precio": 1579900.0,
           "precio_tachado": 1579900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -20156,7 +20156,7 @@
           ],
           "precio": 1119900.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -26893,7 +26893,7 @@
           ],
           "precio": 549900.0,
           "precio_tachado": 549900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -33809,7 +33809,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34031,7 +34031,7 @@
           ],
           "precio": 609950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34317,7 +34317,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34373,7 +34373,7 @@
           ],
           "precio": 544950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34429,7 +34429,7 @@
           ],
           "precio": 544950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34486,7 +34486,7 @@
           ],
           "precio": 699950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34542,7 +34542,7 @@
           ],
           "precio": 699950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34598,7 +34598,7 @@
           ],
           "precio": 674950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34654,7 +34654,7 @@
           ],
           "precio": 674950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34715,7 +34715,7 @@
           ],
           "precio": 499900.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34771,7 +34771,7 @@
           ],
           "precio": 609950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34828,7 +34828,7 @@
           ],
           "precio": 609950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34885,7 +34885,7 @@
           ],
           "precio": 609950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -34940,7 +34940,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -40707,7 +40707,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 799900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -40765,7 +40765,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -41817,7 +41817,7 @@
           ],
           "precio": 1194950.0,
           "precio_tachado": 2019900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -42215,7 +42215,7 @@
           ],
           "precio": 549950.0,
           "precio_tachado": 839900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -42275,7 +42275,7 @@
           ],
           "precio": 499900.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -43855,7 +43855,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -43911,7 +43911,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -48027,7 +48027,7 @@
           ],
           "precio": 789950.0,
           "precio_tachado": 1339900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -154280,7 +154280,7 @@
           ],
           "precio": 489950.0,
           "precio_tachado": 839900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -177068,7 +177068,7 @@
           ],
           "precio": 549950.0,
           "precio_tachado": 979900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -201208,7 +201208,7 @@
           ],
           "precio": 824950.0,
           "precio_tachado": 1339900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -202176,7 +202176,7 @@
           ],
           "precio": 1124975.0,
           "precio_tachado": 3559900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -203156,7 +203156,7 @@
           ],
           "precio": 949900.0,
           "precio_tachado": 2119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -231527,7 +231527,7 @@
           ],
           "precio": 824950.0,
           "precio_tachado": 1339900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -232022,7 +232022,7 @@
           ],
           "precio": 1339900.0,
           "precio_tachado": 1339900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -263706,7 +263706,7 @@
           ],
           "precio": 464950.0,
           "precio_tachado": 839900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -312344,7 +312344,7 @@
           ],
           "precio": 1194950.0,
           "precio_tachado": 2019900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -312448,7 +312448,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 799900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -312566,7 +312566,7 @@
           ],
           "precio": 1194950.0,
           "precio_tachado": 2019900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -312626,7 +312626,7 @@
           ],
           "precio": 1194950.0,
           "precio_tachado": 2019900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -312686,7 +312686,7 @@
           ],
           "precio": 1194950.0,
           "precio_tachado": 2019900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -312741,7 +312741,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -326008,7 +326008,7 @@
           ],
           "precio": 1359920.0,
           "precio_tachado": 1699900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -326063,7 +326063,7 @@
           ],
           "precio": 1359920.0,
           "precio_tachado": 1699900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -326117,7 +326117,7 @@
           ],
           "precio": 1239920.0,
           "precio_tachado": 1549900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -339286,7 +339286,7 @@
           ],
           "precio": 449900.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -341415,7 +341415,7 @@
           ],
           "precio": 1009950.0,
           "precio_tachado": 1799900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -394791,7 +394791,7 @@
           ],
           "precio": 164950.0,
           "precio_tachado": 379900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -394894,7 +394894,7 @@
           ],
           "precio": 164950.0,
           "precio_tachado": 329900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -394997,7 +394997,7 @@
           ],
           "precio": 329900.0,
           "precio_tachado": 329900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -395049,7 +395049,7 @@
           ],
           "precio": 329900.0,
           "precio_tachado": 329900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -395111,7 +395111,7 @@
           ],
           "precio": 949950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -395172,7 +395172,7 @@
           ],
           "precio": 949950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -451343,7 +451343,7 @@
           ],
           "precio": 1734950.0,
           "precio_tachado": 2939900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -517248,7 +517248,7 @@
           ],
           "precio": 489950.0,
           "precio_tachado": 839900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -519928,7 +519928,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1239900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
