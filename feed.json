@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-22T15:00:12.068261+00:00",
+  "generado": "2026-11-22T15:57:34.522390+00:00",
   "total": 10000,
   "productos": [
     {
@@ -400628,7 +400628,6 @@
         "TOMMY HILFIGER",
         "TOMMYHILFIGER",
         "URBANEX",
-        "VUELTAP",
         "X60178"
       ],
       "descripcion": "Gafas tommy hilfiger color negro para mujer protección 100% uv lente en policarbonato gris de 61 grande :Type :CaseSize [mm] :WaterResistance [m] DESCRIPCIÓN Gafas tommy hilfiger color negro para mujer protección 100% uv lente en policarbonato gris de 61 grande DETALLES Marca : Tommy Hilfiger Ancho del puente [mm] : 14 País : China Color : Negro Material del Marco : Plastico Color del Marco : Negro Diseño del Marco : Grande Género : Mujer Material del Lente : Policarbonato Color del Lente : Gris Ancho del Lente [mm] : 61 Material : Plastico Name : Lentes de Sol Tommy Hilfiger Outlook para Mujer OL632 Polarizado : No Largo de las patillas [mm] : 145 Color de las patillas : Negros Protección UV : 100% UV Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -400649,7 +400648,7 @@
           ],
           "precio": 179955.0,
           "precio_tachado": 399900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
