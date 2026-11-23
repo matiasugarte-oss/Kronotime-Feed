@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-23T18:15:05.701700+00:00",
+  "generado": "2026-11-23T19:20:58.823869+00:00",
   "total": 10000,
   "productos": [
     {
@@ -389,7 +389,7 @@
           ],
           "precio": 679950.0,
           "precio_tachado": 1159900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -870,7 +870,7 @@
           ],
           "precio": 2759900.0,
           "precio_tachado": 2759900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -906,7 +906,7 @@
           ],
           "precio": 2759900.0,
           "precio_tachado": 2759900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -9843,7 +9843,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 919900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -18054,7 +18054,7 @@
           ],
           "precio": 6899900.0,
           "precio_tachado": 6899900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -20267,7 +20267,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 999900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -20404,7 +20404,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -20882,7 +20882,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -81598,7 +81598,7 @@
           ],
           "precio": 1099900.0,
           "precio_tachado": 2639900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -104021,7 +104021,7 @@
           ],
           "precio": 774950.0,
           "precio_tachado": 1039900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -146117,7 +146117,7 @@
           ],
           "precio": 919900.0,
           "precio_tachado": 919900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -203777,7 +203777,7 @@
           ],
           "precio": 642475.0,
           "precio_tachado": 1499900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -209785,7 +209785,7 @@
           ],
           "precio": 699900.0,
           "precio_tachado": 1499900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -269449,7 +269449,7 @@
           ],
           "precio": 499900.0,
           "precio_tachado": 999900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -319030,7 +319030,7 @@
           ],
           "precio": 1029950.0,
           "precio_tachado": 1759900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -403161,7 +403161,7 @@
           ],
           "precio": 674950.0,
           "precio_tachado": 1199900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -403798,6 +403798,7 @@
         "50",
         "60SEGUNDOS",
         "ACEROINOXIDABLE",
+        "APUESTAINVICTA",
         "BLACKDAYS",
         "BLANCO",
         "BRONCE",
@@ -430350,7 +430351,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1239900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -483449,7 +483450,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -483512,7 +483513,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -521995,7 +521996,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -523368,7 +523369,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1239900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
