@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T17:14:52.967850+00:00",
+  "generado": "2026-11-24T18:06:48.269885+00:00",
   "total": 10000,
   "productos": [
     {
@@ -782,7 +782,8 @@
       "tipo": "RELOJES",
       "tags": [
         "INVICTA",
-        "INVICTA RACING"
+        "INVICTA RACING",
+        "VUELTAP"
       ],
       "descripcion": ":description Quartz 46 [mm] 50 [m] DESCRIPCIÓN Reloj invicta 50756 invicta racing para men, tamaño de la caja 46 mm de stainless steel, tamaño del pulso 215 mm de silicone, color white, black, pulso de 215 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Silicone Color Pulso : White, Black Ancho pulso [mm] : 27 Largo pulso [mm] : 215 Color Bisel : Gradient, Silver, Black BezelMaterial : Metal Marca : INVICTA BuckleType : Buckle Calendario : None Material Caja : Stainless Steel Diseño Caja : Circular Color Caja : Black Ancho Caja [mm] : 46 ClaspType : Regular Cristal : Mineral ChronographFunction : None Color : White, Black País : Japan Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : White LuminousMaterial : New Lite Material : Silicone MovementCaliber : PC21AF MovementComponents : Japan MovementJewels : No SwissMade : No StoneType : None ShortDescription : INVICTA Invicta Racing Men 46mm Stainless Steel Black Black+Silver+Gradient dial PC21AF Quartz Tipo : Quartz Resistencia al Agua [m] : 50 family : PF23747 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -33115,6 +33116,7 @@
         "SPEEDWAY",
         "TMI",
         "TRITNITE",
+        "URBANEX",
         "VD53",
         "VERDE"
       ],
@@ -33133,7 +33135,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1159900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -36866,7 +36868,9 @@
         "SEGURIDAD",
         "SEGURIDAD AL DOBLAR",
         "TMI",
-        "VD53"
+        "URBANEX",
+        "VD53",
+        "VUELTAP"
       ],
       "descripcion": ":description Quartz 49.5 [mm] 200 [m] DESCRIPCIÓN Reloj invicta 49081 aviator para hombres, tamaño de la caja 49.5 mm de acero inoxidable, tamaño del pulso 182 mm de acero inoxidable, color oro, pulso de 182 mm, resistencia al agua hasta 200 metros DETALLES Material Pulso : Acero inoxidable Color Pulso : Oro Ancho pulso [mm] : 26 Largo pulso [mm] : 182 Color Bisel : Oro BezelMaterial : Latón Marca : Invicta BuckleType : Seguridad al doblar Calendario : Fecha Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 49.5 ClaspType : Seguridad Cristal : Mineral ChronographFunction : 60 segundos Color : Oro País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco LuminousMaterial : Nuevo Lite Material : Acero inoxidable MovementCaliber : VD53 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 200 family : PF21752 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -82428,6 +82432,7 @@
         "SIL",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VH60"
       ],
       "descripcion": ":description Quartz 52 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 41073 dc comics para hombres, tamaño de la caja 52 mm de acero inoxidable, tamaño del pulso 210 mm de fibra de vidrio, silicona, color gris negro, pulso de 210 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Fibra de vidrio, Silicona Color Pulso : Gris negro Ancho pulso [mm] : 30 Largo pulso [mm] : 210 Color Bisel : Gris negro BezelMaterial : Metal Marca : Invicta BuckleType : Hebilla Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Negro Ancho Caja [mm] : 52 ClaspType : Hebilla Cristal : Flame Fusion ChronographFunction : 24 horas Color : Gris negro País : Japón Tipo de Función : Quartz Género : Hombre LuminousColor : Blanco LuminousMaterial : tritnita Material : Fibra de vidrio, Silicona MovementCaliber : VH60 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 serie : Batman family : PF18150 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -131089,7 +131094,8 @@
         "TMI",
         "TRITNITA",
         "URBANEX",
-        "VJ42"
+        "VJ42",
+        "VUELTAP"
       ],
       "descripcion": ":description Quartz 54 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 36079 pro diver para hombres, tamaño de la caja 54 mm de acero inoxidable, tamaño del pulso 210 mm de acero inoxidable, color oro, pulso de 210 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Acero inoxidable Color Pulso : Oro Ancho pulso [mm] : 26 Largo pulso [mm] : 210 Color Bisel : Negro BezelMaterial : Metal Marca : Invicta BuckleType : Doblar la seguridad Calendario : Fecha Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 54 Cristal : Flame Fusion Color : Oro País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco LuminousMaterial : Tritnita Material : Acero inoxidable MovementCaliber : VJ42 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 family : PF15452 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -135005,6 +135011,7 @@
         "ROJO",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD54"
       ],
       "descripcion": ":description Quartz 50 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 34020 i-force para hombre, tamaño de la caja 50 mm de acero inoxidable, tamaño del pulso 210 mm de acero inoxidable, color azul negro, pulso de 210 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Azul negro Ancho pulso [mm] : 24 Largo pulso [mm] : 210 Color Bisel : rojo BezelMaterial : Metal Marca : INVICTA BuckleType : Hebilla Calendario : Ninguno Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Negro Ancho Caja [mm] : 50 Cristal : Flame Fusion ChronographFunction : 60 segundos Color : Azul negro País : Japón Tipo de Función : Quartz Género : Hombre LuminousColor : blanco LuminousMaterial : Tritnita Material : Acero Inoxidable MovementCaliber : VD54 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 family : PF14092 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -146088,7 +146095,8 @@
         "SAFETY",
         "SINGAPORE",
         "STAINLESS STEEL",
-        "TRITNITE"
+        "TRITNITE",
+        "URBANEX"
       ],
       "descripcion": ":description Quartz 43 [mm] 200 [m] DESCRIPCIÓN Reloj invicta 29947 pro diver para men, tamaño de la caja 43 mm de stainless steel, tamaño del pulso 220 mm de stainless steel, color gold, pulso de 220 mm, resistencia al agua hasta 200 metros DETALLES Material Pulso : Stainless Steel Color Pulso : Gold Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Blue BezelMaterial : Metal Marca : INVICTA BuckleType : Fold over safety Calendario : Date Material Caja : Stainless Steel Diseño Caja : Circular Color Caja : Gold Ancho Caja [mm] : 43 ClaspType : Foldover, Safety Cristal : Mineral ChronographFunction : None Color : Gold País : Singapore Género : Hombre Interchangeable : No LuminousColor : Light Green LuminousMaterial : Tritnite Material : Stainless Steel MovementCaliber : MG68-1 MovementComponents : Singapore MovementJewels : No SwissMade : No StoneType : None ShortDescription : INVICTA Pro Diver Men 43mm Stainless Steel Gold Blue dial MG68-1 Quartz Tipo : Quartz Resistencia al Agua [m] : 200 family : PF11591 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -146108,7 +146116,7 @@
           ],
           "precio": 919900.0,
           "precio_tachado": 919900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -157083,7 +157091,8 @@
         "REDONDO",
         "SI",
         "UNISEXO",
-        "VUELTAP"
+        "VUELTAP",
+        "VUELTAPMED"
       ],
       "descripcion": ":description :Type :CaseSize [mm] :WaterResistance [m] DESCRIPCIÓN Gafas invicta eyewear color azul para unisex protección 100% lente en policarbonato azul de 55 redondo DETALLES Marca : INVICTA EYEWEAR Ancho del puente [mm] : 17 País : Estados Unidos Color : Azul Material del Marco : Acero Inoxidable Color del Marco : Azul Diseño del Marco : Redondo Género : Unisexo Material del Lente : Policarbonato Color del Lente : Azul Ancho del Lente [mm] : 55 Material : Acero Inoxidable Name : Lentes De Sol Invicta Aviator I 28147-avi-06 con Filtro UV polarizado Polarizado : Si ShortDescription : Las gafas de sol Invicta Aviator ofrecen un estilo icónico con una calidad, rendimiento y comodidad excepcionales. El marco clásico se enriqueció aún más con el uso de acero inoxidable, acetato y nailon para un reinicio sofisticado de nuestro diseño atemporal. Nuestras lentes CR39 mejoradas presentan un rendimiento óptico extraordinario. Largo de las patillas [mm] : 55 Color de las patillas : Azul Protección UV : 100% Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -192454,7 +192463,9 @@
         "SUIZO",
         "TECHNOMARINE",
         "TF0718",
-        "TRITNITA"
+        "TRITNITA",
+        "URBANEX",
+        "VUELTAPMED"
       ],
       "descripcion": "Reloj technomarine tm-120038 cruise para dama, tamaño de la caja 37.5 mm de acero inoxidable, tamaño del pulso 190 mm de silicona, color negro, pulso de 190 mm, resistencia al agua hasta 100 metros Quartz 37.5 [mm] 100 [m] DESCRIPCIÓN Reloj technomarine tm-120038 cruise para dama, tamaño de la caja 37.5 mm de acero inoxidable, tamaño del pulso 190 mm de silicona, color negro, pulso de 190 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Silicona Color Pulso : Negro Ancho pulso [mm] : 17 Largo pulso [mm] : 190 Color Bisel : Oro BezelMaterial : Metal Marca : Technomarine Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 37.5 ClaspType : Hebilla Cristal : Flame Fusion Color : Negro País : suizo Tipo de Función : Quartz Género : Mujer LuminousColor : Blanco LuminousMaterial : tritnita Material : Silicona MovementCaliber : 1069 MovementComponents : suizo MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 serie : Sea Lady family : TF0718 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -203622,7 +203633,8 @@
         "TF1065",
         "TMI",
         "TRITNITA",
-        "URBANEX"
+        "URBANEX",
+        "VUELTAP"
       ],
       "descripcion": "Reloj technomarine tm-121257 cruise para dama, tamaño de la caja 42 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 100 metros Quartz 42 [mm] 100 [m] DESCRIPCIÓN Reloj technomarine tm-121257 cruise para dama, tamaño de la caja 42 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Silicona Color Pulso : Negro Ancho pulso [mm] : 29 Largo pulso [mm] : 210 Color Bisel : Negro BezelMaterial : Madre perla Marca : Technomarine Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 42 ClaspType : Hebilla Cristal : Flame Fusion Color : Negro País : Japón Tipo de Función : Quartz Género : Mujer LuminousColor : Blanco LuminousMaterial : tritnita Material : Silicona MovementCaliber : PC21 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : cristal, cristal Tipo : Quartz Resistencia al Agua [m] : 100 serie : Monogram stones : Crystal, Crystal family : TF1065 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -207948,7 +207960,6 @@
         "SILICONA",
         "TECHNOMARINE",
         "TF0890",
-        "URBANEX",
         "VD53",
         "VUELTAP",
         "VUELTAPMED"
@@ -214258,6 +214269,7 @@
         "TF1105",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VERDE",
         "YM12"
       ],
@@ -222780,7 +222792,8 @@
         "TECHNOMARINE",
         "TF1065",
         "TMI",
-        "TRITNITA"
+        "TRITNITA",
+        "URBANEX"
       ],
       "descripcion": "Reloj technomarine tm-121259 cruise para dama, tamaño de la caja 42 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 100 metros Quartz 42 [mm] 100 [m] DESCRIPCIÓN Reloj technomarine tm-121259 cruise para dama, tamaño de la caja 42 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Silicona Color Pulso : Negro Ancho pulso [mm] : 29 Largo pulso [mm] : 210 Color Bisel : Negro BezelMaterial : Madre perla Marca : Technomarine Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro rosa Ancho Caja [mm] : 42 ClaspType : Hebilla Cristal : Flame Fusion Color : Negro País : Japón Tipo de Función : Quartz Género : Mujer LuminousColor : Blanco LuminousMaterial : tritnita Material : Silicona MovementCaliber : PC21 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : cristal, cristal Tipo : Quartz Resistencia al Agua [m] : 100 serie : Monogram stones : Crystal, Crystal family : TF1065 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -225947,7 +225960,6 @@
         "SILICONA",
         "TECHNOMARINE",
         "TF0790",
-        "URBANEX",
         "VD54"
       ],
       "descripcion": "Reloj technomarine tm-118128 cruise para hombre, tamaño de la caja 46.65 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 200 metros Quartz 46.65 [mm] 200 [m] DESCRIPCIÓN Reloj technomarine tm-118128 cruise para hombre, tamaño de la caja 46.65 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 200 metros DETALLES Material Pulso : Silicona Color Pulso : Negro Ancho pulso [mm] : 29.1 Largo pulso [mm] : 210 Color Bisel : Plata antigua, gris BezelMaterial : Metal Marca : TECHNOMARINE Calendario : Ninguna Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 46.65 ClaspType : Regular Cristal : Mineral ChronographFunction : 60 minutos Color : Negro País : Japón Tipo de Función : Quartz Género : Hombre LuminousColor : Ninguna LuminousMaterial : Ninguna Material : Silicona MovementCaliber : VD54 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguna Tipo : Quartz Resistencia al Agua [m] : 200 serie : California family : TF0790 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -265413,6 +265425,7 @@
         "SII",
         "SILICONA",
         "SUBAQUA",
+        "URBANEX",
         "VD53"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 50 [mm] 200 [m] DESCRIPCIÓN Reloj invicta 0932 subaqua para hombres, tamaño de la caja 50 mm de plástico / acero inoxidable, tamaño del pulso 200 mm de plástico, silicona, color gris oscuro, negro, pulso de 200 mm, resistencia al agua hasta 200 metros DETALLES Material Pulso : Plástico, Silicona Color Pulso : Gris oscuro, Negro Ancho pulso [mm] : 28 Largo pulso [mm] : 200 Color Bisel : Gris BezelMaterial : El plastico Marca : INVICTA BuckleType : Hebilla Calendario : Fecha Material Caja : Plástico / Acero inoxidable Diseño Caja : Circular Color Caja : Gris, oro rosa Ancho Caja [mm] : 50 ClaspType : Regular Cristal : Flame Fusion ChronographFunction : 30 minutos Color : Gris oscuro, Negro País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco LuminousMaterial : Nuevo Lite Material : Plástico, Silicona MovementCaliber : VD53 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 200 serie : Noma III family : PF8330 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -269102,7 +269115,8 @@
         "RELOJTOMMYHILFIGER17",
         "SILICONA",
         "TOMMY HILFIGER",
-        "TOMMYHILFIGER"
+        "TOMMYHILFIGER",
+        "URBANEX"
       ],
       "descripcion": "Reloj tommy hilfiger 1792057 para hombre, tamaño de la caja 44 mm de acero inoxidable, tamaño del pulso 220 mm de silicona, color azul, pulso de 220 mm, resistencia al agua hasta 50 metros Análogo 44 [mm] 50 [m] DESCRIPCIÓN Reloj tommy hilfiger 1792057 para hombre, tamaño de la caja 44 mm de acero inoxidable, tamaño del pulso 220 mm de silicona, color azul, pulso de 220 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : silicona Color Pulso : azul Ancho pulso [mm] : 20 Largo pulso [mm] : 220 Color Bisel : azul Marca : tommy hilfiger Calendario : cronógrafo Material Caja : acero inoxidable Diseño Caja : circular Color Caja : plateado Ancho Caja [mm] : 44 ClaspType : hebilla Cristal : mineral Color : azul País : china Tipo de Función : cuarzo Género : Hombre Material : silicona MovementJewels : No SwissMade : No ShortDescription : reloj tommy hilfiger 1792057 justin para hombre tamaño de la caja 44 de acero inoxidable tamaño del pulso 220 de silicona color azul ancho del pulso de 20 resistencia al agua hasta 50 metros Tipo : análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -270298,7 +270312,8 @@
         "RELOJTOMMYHILFIGERPA",
         "SILICONA",
         "TOMMY HILFIGER",
-        "TOMMYHILFIGER"
+        "TOMMYHILFIGER",
+        "URBANEX"
       ],
       "descripcion": "Reloj tommy hilfiger 1782281 para mujer, tamaño de la caja 38 mm de acero inoxidable, tamaño del pulso 190 mm de silicona, color azul, pulso de 190 mm, resistencia al agua hasta 30 metros Análogo 38 [mm] 30 [m] DESCRIPCIÓN Reloj tommy hilfiger 1782281 para mujer, tamaño de la caja 38 mm de acero inoxidable, tamaño del pulso 190 mm de silicona, color azul, pulso de 190 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : silicona Color Pulso : azul Ancho pulso [mm] : 19 Largo pulso [mm] : 190 Color Bisel : azul Marca : tommy hilfiger Calendario : no Material Caja : acero inoxidable Diseño Caja : circular Color Caja : plateado Ancho Caja [mm] : 38 ClaspType : hebilla Cristal : mineral Color : azul País : china Tipo de Función : cuarzo Género : Mujer Material : silicona MovementJewels : No SwissMade : No ShortDescription : reloj tommy hilfiger para mujer 1782281 Tipo : análogo Resistencia al Agua [m] : 30 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -341268,7 +341283,9 @@
         "SINGAPORE",
         "SINGAPUR",
         "TRITNITA",
-        "VERDE"
+        "URBANEX",
+        "VERDE",
+        "VUELTAP"
       ],
       "descripcion": ":description Automatic 43 [mm] 30 [m] DESCRIPCIÓN Reloj invicta 69003 s1 rally para hombres, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 250 mm de silicona, color blanco, pulso de 250 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : Silicona Color Pulso : Blanco Ancho pulso [mm] : 27 Largo pulso [mm] : 250 Color Bisel : Negro BezelMaterial : Plástico Marca : Invicta BuckleType : Plegado de seguridad Calendario : Ninguno Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero, negro Ancho Caja [mm] : 43 ClaspType : Hebilla Cristal : Not Applicable ChronographFunction : 12 horas Color : Blanco País : Singapur Tipo de Función : Automatic Género : Hombre LuminousColor : Verde LuminousMaterial : Tritnita Material : Silicona MovementCaliber : JX 2802 MovementComponents : Singapur MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Automatic Resistencia al Agua [m] : 30 family : PF22510 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -342556,8 +342573,10 @@
         "SILICONA",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD54",
-        "VERDE MILITAR"
+        "VERDE MILITAR",
+        "VUELTAP"
       ],
       "descripcion": ":description Quartz 52 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 49807 bolt para hombres, tamaño de la caja 52 mm de acero inoxidable, tamaño del pulso 220 mm de silicona, acero inoxidable, color verde militar, gris plomo, pulso de 220 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Silicona, acero inoxidable Color Pulso : Verde militar, gris plomo Ancho pulso [mm] : 31 Largo pulso [mm] : 220 Color Bisel : Gris plomo BezelMaterial : Metal Marca : Invicta BuckleType : Hebilla Calendario : Ninguno Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Gris plomo Ancho Caja [mm] : 52 ClaspType : Hebilla Cristal : Flame Fusion ChronographFunction : 60 segundos Color : Verde militar, gris plomo País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco LuminousMaterial : Tritnita Material : Silicona, acero inoxidable MovementCaliber : VD54 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 family : PF15303 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -342615,7 +342634,9 @@
         "SILICONA",
         "TMI",
         "TRITNITA",
-        "VD54"
+        "URBANEX",
+        "VD54",
+        "VUELTAP"
       ],
       "descripcion": ":description Quartz 52 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 49805 bolt para hombres, tamaño de la caja 52 mm de acero inoxidable, tamaño del pulso 220 mm de silicona, acero inoxidable, color blanco, acero, pulso de 220 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Silicona, acero inoxidable Color Pulso : Blanco, acero Ancho pulso [mm] : 31 Largo pulso [mm] : 220 Color Bisel : Azul claro BezelMaterial : Metal Marca : Invicta BuckleType : Hebilla Calendario : Ninguno Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero Ancho Caja [mm] : 52 ClaspType : Hebilla Cristal : Flame Fusion ChronographFunction : 60 segundos Color : Blanco, acero País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco LuminousMaterial : Tritnita Material : Silicona, acero inoxidable MovementCaliber : VD54 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 family : PF15303 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -362265,7 +362286,9 @@
         "SINGAPORE",
         "SINGAPUR",
         "TRITNITA",
-        "VERDE"
+        "URBANEX",
+        "VERDE",
+        "VUELTAP"
       ],
       "descripcion": ":description Automatic 43 [mm] 30 [m] DESCRIPCIÓN Reloj invicta 69000 s1 rally para hombres, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 250 mm de silicona, color azul, pulso de 250 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : Silicona Color Pulso : Azul Ancho pulso [mm] : 27 Largo pulso [mm] : 250 Color Bisel : Negro BezelMaterial : Plástico Marca : Invicta BuckleType : Plegado de seguridad Calendario : Ninguno Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero, Plata Ancho Caja [mm] : 43 ClaspType : Hebilla Cristal : Not Applicable ChronographFunction : 12 horas Color : Azul País : Singapur Tipo de Función : Automatic Género : Hombre LuminousColor : Verde LuminousMaterial : Tritnita Material : Silicona MovementCaliber : JX 2802 MovementComponents : Singapur MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Automatic Resistencia al Agua [m] : 30 family : PF22510 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -391855,7 +391878,9 @@
         "SPEEDWAY",
         "TMI",
         "TRITNITA",
-        "VD53"
+        "URBANEX",
+        "VD53",
+        "VUELTAP"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 50 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 49122 speedway para hombres, tamaño de la caja 50 mm de acero inoxidable, tamaño del pulso 195 mm de acero inoxidable, color oro, pulso de 195 mm, resistencia al agua hasta 100 metros DETALLES Garantía : 3 años maquinaria y 1 años batería Material Pulso : Acero inoxidable Color Pulso : Oro Ancho pulso [mm] : 26 Largo pulso [mm] : 195 Color Bisel : Carbón Garantía : 3 años maquinaria y 1 años batería BezelMaterial : Metal Marca : Invicta BuckleType : Seguridad plegable Calendario : Fecha Garantía : 3 años maquinaria y 1 años batería Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero, oro Ancho Caja [mm] : 50 ClaspType : Seguridad Cristal : Flame Fusion ChronographFunction : 60 segundos Color : Oro País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco Garantía : 3 años maquinaria y 1 años batería LuminousMaterial : Tritnita Garantía : 3 años maquinaria y 1 años batería Material : Acero inoxidable MovementCaliber : VD53 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 family : PF20914 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -404935,7 +404960,8 @@
         "NO",
         "RELOJES",
         "RESINA",
-        "SI"
+        "SI",
+        "URBANEX"
       ],
       "descripcion": "La linea de Casio G-SHOCK se encuentra en el mercado desde 1983, ofreciendo un nuevo concepto de resistencia. Los relojes G-SHOCK cuenta con gran durabilidad y están especialmente diseñados para soportar caídas y tratamientos rudos, además de ofrecer resistencia al agua. Analogo y digital 508 [mm] 200 [m] DESCRIPCIÓN Reloj g-shock ga_1000_1a para hombre, tamaño de la caja 508 mm de acero inoxidable, tamaño del pulso 160-220 mm de resina, color negro, pulso de 160-220 mm, resistencia al agua hasta 200 metros DETALLES Garantía : 1 año maquinaria 1 año batería Material Pulso : Resina Color Pulso : Negro Largo pulso [mm] : 160-220 Color Bisel : Negro Marca : G-SHOCK Calendario : Si Garantía : 1 año maquinaria 1 año batería Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Negro Ancho Caja [mm] : 508 ClaspType : Hebilla Cristal : Mineral Color : Negro País : Japon Tipo de Función : Cuarzo Género : Hombre Garantía : 1 año maquinaria 1 año batería Material : Resina MovementJewels : No SwissMade : No ShortDescription : desc_corta Tipo : Analogo y Digital Resistencia al Agua [m] : 200 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -457482,6 +457508,8 @@
         "RELOJES",
         "RONDA",
         "SUIZO",
+        "URBANEX",
+        "VUELTAP",
         "WILDFLOWER"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Cuarzo 21.5 [mm] 50 [m] DESCRIPCIÓN Reloj invicta 0133 wildflower para mujer, tamaño de la caja 21.5 mm de acero inoxidable, tamaño del pulso 181 mm de acero inoxidable, color dorado, pulso de 181 mm, resistencia al agua hasta 50 metros DETALLES Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería Material Pulso : Acero Inoxidable Color Pulso : Dorado Ancho pulso [mm] : 12 Largo pulso [mm] : 181 Color Bisel : Blanco Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería BezelMaterial : Metal Marca : INVICTA BuckleType : - Calendario : Ninguna Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Dorado Ancho Caja [mm] : 21.5 ClaspType : Joyería Cristal : Flame Fusion Color : Dorado País : suizo Tipo de Función : Cuarzo Género : Mujer LuminousColor : Ninguna Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería LuminousMaterial : Ninguna Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería Material : Acero Inoxidable MovementCaliber : 763 MovementComponents : suizo MovementJewels : No SwissMade : No Tipo : Cuarzo Resistencia al Agua [m] : 50 serie : - family : PF0095 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -483387,6 +483415,7 @@
         "RELOJES",
         "TMI",
         "TRITNITE",
+        "URBANEX",
         "VERDECLARO"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 43 [mm] 200 [m] DESCRIPCIÓN Reloj invicta 22076 pro diver para hombre, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color azul, pulso de 220 mm, resistencia al agua hasta 200 metros DETALLES Garantía : 3 años maquinaria y 3 años batería Material Pulso : Cuero Color Pulso : Azul Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Azul Garantía : 3 años maquinaria y 3 años batería BezelMaterial : Metal Marca : INVICTA BuckleType : Regular Calendario : Fecha Garantía : 3 años maquinaria y 3 años batería Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 43 ClaspType : Regular Cristal : Flame Fusion ChronographFunction : Ninguna Color : Azul País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Verde claro Garantía : 3 años maquinaria y 3 años batería LuminousMaterial : Tritnite Garantía : 3 años maquinaria y 3 años batería Material : Cuero MovementCaliber : PC32A MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguna Tipo : Quartz Resistencia al Agua [m] : 200 family : PF6777 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -483408,7 +483437,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -483469,7 +483498,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -483510,7 +483539,9 @@
         "RELOJES",
         "TMI",
         "TRITNITE",
-        "VERDECLARO"
+        "URBANEX",
+        "VERDECLARO",
+        "VUELTAP"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 43 [mm] 200 [m] DESCRIPCIÓN Reloj invicta 22068 pro diver para hombre, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color negro, pulso de 220 mm, resistencia al agua hasta 200 metros DETALLES Garantía : 3 años maquinaria y 3 años batería Material Pulso : Cuero Color Pulso : Negro Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Azul Garantía : 3 años maquinaria y 3 años batería BezelMaterial : Metal Marca : INVICTA BuckleType : Regular Calendario : Fecha Garantía : 3 años maquinaria y 3 años batería Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero inoxidable Ancho Caja [mm] : 43 ClaspType : Regular Cristal : Flame Fusion ChronographFunction : Ninguna Color : Negro País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Verde claro Garantía : 3 años maquinaria y 3 años batería LuminousMaterial : Tritnite Garantía : 3 años maquinaria y 3 años batería Material : Cuero MovementCaliber : PC32A MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguna Tipo : Quartz Resistencia al Agua [m] : 200 family : PF6777 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -523300,6 +523331,7 @@
         "SPEEDWAY",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD53B14",
         "VERDE"
       ],
