@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-23T23:06:36.939368+00:00",
+  "generado": "2026-11-24T00:00:37.147336+00:00",
   "total": 10000,
   "productos": [
     {
@@ -797,7 +797,7 @@
           ],
           "precio": 1119900.0,
           "precio_tachado": 1119900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -25447,6 +25447,7 @@
         "HOMBRE",
         "INVICTA",
         "INVICTA SPEEDWAY ME",
+        "MED",
         "NEW LITE",
         "NO",
         "NONE",
@@ -25460,8 +25461,6 @@
         "STAINLESS STEEL",
         "TIFFANY BLUE",
         "TMI",
-        "VUELTAP",
-        "VUELTAPMED",
         "WHITE"
       ],
       "descripcion": ":description Quartz 42 [mm] 30 [m] DESCRIPCIÓN Reloj invicta 50857 speedway para men, tamaño de la caja 42 mm de stainless steel, tamaño del pulso 186 mm de stainless steel, color black, pulso de 186 mm, resistencia al agua hasta 30 metros DETALLES Material Pulso : Stainless Steel Color Pulso : Black Ancho pulso [mm] : 22 Largo pulso [mm] : 186 Color Bisel : Tiffany Blue BezelMaterial : Brass Marca : INVICTA BuckleType : Fold over push button Calendario : None Material Caja : Stainless Steel Diseño Caja : Circular Color Caja : Black Ancho Caja [mm] : 42 ClaspType : Push Button Cristal : Flame Fusion ChronographFunction : None Color : Black País : Singapore Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : White LuminousMaterial : New Lite Material : Stainless Steel MovementCaliber : PC21J MovementComponents : Singapore MovementJewels : No SwissMade : No StoneType : None ShortDescription : Invicta Speedway Men 42mm Black Tone Case Tiffany Blue Brass Dial Black Band PC21J Quartz Tipo : Quartz Resistencia al Agua [m] : 30 family : PF20809 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -36886,7 +36885,7 @@
           ],
           "precio": 1084950.0,
           "precio_tachado": 1839900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -146113,7 +146112,7 @@
           ],
           "precio": 919900.0,
           "precio_tachado": 919900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -341294,7 +341293,7 @@
           ],
           "precio": 1829950.0,
           "precio_tachado": 3099900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -362298,7 +362297,7 @@
           ],
           "precio": 1829950.0,
           "precio_tachado": 3099900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -375874,7 +375873,7 @@
           ],
           "precio": 899950.0,
           "precio_tachado": 1239900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -471286,8 +471285,7 @@
         "TRITNITA",
         "URBANEX",
         "VD53",
-        "VUELTAP",
-        "VUELTAPMED"
+        "VUELTAP"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 50 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 22798 pro diver para hombres, tamaño de la caja 50 mm de acero inoxidable, tamaño del pulso 199 mm de silicona, acero inoxidable, color azul, dorado, pulso de 199 mm, resistencia al agua hasta 100 metros DETALLES Garantía : 3 años maquinaria y 3 años batería Material Pulso : Silicona, acero inoxidable Color Pulso : Azul, dorado Ancho pulso [mm] : 26 Largo pulso [mm] : 199 Color Bisel : Azul Garantía : 3 años maquinaria y 3 años batería BezelMaterial : Metal Marca : Invicta BuckleType : Hebilla Calendario : Fecha Garantía : 3 años maquinaria y 3 años batería Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Oro Ancho Caja [mm] : 50 ClaspType : Regular Cristal : Flame Fusion ChronographFunction : 60 segundos Color : Azul, dorado País : Japón Tipo de Función : Quartz Género : Hombre Interchangeable : No LuminousColor : Blanco Garantía : 3 años maquinaria y 3 años batería LuminousMaterial : Tritnita Garantía : 3 años maquinaria y 3 años batería Material : Silicona, acero inoxidable MovementCaliber : VD53 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 100 serie : SCUBA family : PF15994 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -483431,7 +483429,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -483472,7 +483470,9 @@
         "RELOJES",
         "TMI",
         "TRITNITE",
-        "VERDECLARO"
+        "URBANEX",
+        "VERDECLARO",
+        "VUELTAP"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Cuarzo 43 [mm] 200 [m] DESCRIPCIÓN Reloj invicta 22069 pro diver para hombre, tamaño de la caja 43 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color marrón, pulso de 220 mm, resistencia al agua hasta 200 metros DETALLES Garantía : 3 años maquinaria y 3 años batería Material Pulso : Cuero Color Pulso : marrón Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Negro Garantía : 3 años maquinaria y 3 años batería BezelMaterial : Metal Marca : INVICTA BuckleType : Regular Calendario : Fecha Garantía : 3 años maquinaria y 3 años batería Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero inoxidable Ancho Caja [mm] : 43 ClaspType : Regular Cristal : Flame Fusion ChronographFunction : Ninguna Color : marrón País : Japón Tipo de Función : Cuarzo Género : Hombre Interchangeable : No LuminousColor : Verde claro Garantía : 3 años maquinaria y 3 años batería LuminousMaterial : Tritnite Garantía : 3 años maquinaria y 3 años batería Material : Cuero MovementCaliber : PC32A MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguna Tipo : Cuarzo Resistencia al Agua [m] : 200 family : PF6777 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -483492,7 +483492,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -483560,7 +483560,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
