@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T20:16:51.174600+00:00",
+  "generado": "2026-11-24T21:16:20.004322+00:00",
   "total": 10000,
   "productos": [
     {
@@ -11819,7 +11819,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -135620,7 +135620,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 899900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -148860,7 +148860,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 899900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -342593,7 +342593,7 @@
           ],
           "precio": 1374950.0,
           "precio_tachado": 2199900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -354465,7 +354465,7 @@
           ],
           "precio": 879900.0,
           "precio_tachado": 879900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -391895,7 +391895,7 @@
           ],
           "precio": 924950.0,
           "precio_tachado": 1579900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
