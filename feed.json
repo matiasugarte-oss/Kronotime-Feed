@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-25T04:25:32.422673+00:00",
+  "generado": "2026-11-25T06:11:48.638202+00:00",
   "total": 10000,
   "productos": [
     {
@@ -179421,7 +179421,7 @@
           ],
           "precio": 129900.0,
           "precio_tachado": 299900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -268161,9 +268161,9 @@
           "opciones_nombres": [
             "Title"
           ],
-          "precio": 389900.0,
+          "precio": 357445.0,
           "precio_tachado": 649900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -383923,7 +383923,7 @@
           ],
           "precio": 149900.0,
           "precio_tachado": 299900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
