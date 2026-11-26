@@ -1,7 +1,44 @@
 {
-  "generado": "2026-11-26T17:21:33.332767+00:00",
+  "generado": "2026-11-26T19:16:16.167110+00:00",
   "total": 10000,
   "productos": [
+    {
+      "product_id": 15482425311596,
+      "handle": "reloj-clasico-para-hombre-hugo-boss-grand-prix-vitesse-1514342-cafe",
+      "url": "https://kronotime.com/products/reloj-clasico-para-hombre-hugo-boss-grand-prix-vitesse-1514342-cafe",
+      "nombre": "RELOJ CLÁSICO PARA HOMBRE HUGO BOSS GRAND PRIX VITESSE 1514342 - CAFÉ",
+      "marca": "HUGO BOSS",
+      "tipo": "RELOJES",
+      "tags": [
+        "EnviogratisTag",
+        "GRAND PRIX VITESSE",
+        "HUGO BOSS",
+        "URBANEX",
+        "VUELTAP"
+      ],
+      "descripcion": ":description Análogo 44 [mm] 50 [m] DESCRIPCIÓN Reloj hugo boss 1514342 grand prix vitesse para hombre, tamaño de la caja 44 mm de acero inoxidable, tamaño del pulso 220 mm de cuero, color café, pulso de 220 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : cuero Color Pulso : café Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : verde Marca : hugo boss Calendario : sí Material Caja : acero inoxidable Diseño Caja : circular Color Caja : plateado Ancho Caja [mm] : 44 ClaspType : hebilla Cristal : mineral Color : café País : china Tipo de Función : cuarzo Género : Hombre Material : cuero MovementJewels : No SwissMade : No ShortDescription : reloj hugo boss grand prix vitesse 1514342, caja 44mm plateado, esfera verde, correa cuero café, 50m wr con calendario Tipo : análogo Resistencia al Agua [m] : 50 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
+      "imagenes": [
+        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272698337_1.jpg?v=1794444072",
+        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272698337_2.jpg?v=1794444072",
+        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272698337_3.jpg?v=1794444072",
+        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/7613272698337_4.jpg?v=1794444071"
+      ],
+      "variantes": [
+        {
+          "variant_id": 68140126044524,
+          "sku": "7613272698337",
+          "barcode": "7613272698337",
+          "opciones": "",
+          "opciones_nombres": [
+            "Title"
+          ],
+          "precio": 2049900.0,
+          "precio_tachado": 2049900.0,
+          "disponible": true,
+          "imagen": null
+        }
+      ]
+    },
     {
       "product_id": 15523071721836,
       "handle": "reloj-para-mujer-invicta-pro-diver-46724-gold",
@@ -8856,8 +8893,7 @@
         "NO",
         "PARENT_883901192308",
         "POLICARBONATO",
-        "UNISEX",
-        "URBANEX"
+        "UNISEX"
       ],
       "descripcion": ":description :Type :CaseSize [mm] :WaterResistance [m] DESCRIPCIÓN Gafas calvin klein color café para unisex protección 100% lente en policarbonato café de 44 navegador DETALLES Marca : Calvin Klein Ancho del puente [mm] : 17 País : China Color : Café Material del Marco : Metal Color del Marco : Negro Diseño del Marco : Navegador Género : Unisex Material del Lente : Policarbonato Color del Lente : Café Ancho del Lente [mm] : 44 Material : Metal Name : Lentes de Sol CALVIN KLEIN CK20122SN 717 Polarizado : No Largo de las patillas [mm] : 145 Color de las patillas : Negro Protección UV : 100% Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -8877,7 +8913,7 @@
           ],
           "precio": 199900.0,
           "precio_tachado": 399900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -24221,7 +24257,7 @@
           ],
           "precio": 499900.0,
           "precio_tachado": 499900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -122515,7 +122551,7 @@
           ],
           "precio": 649950.0,
           "precio_tachado": 1159900.0,
-          "disponible": false,
+          "disponible": true,
           "imagen": null
         }
       ]
@@ -227248,7 +227284,6 @@
         "TF0807",
         "TMI",
         "TRITNITA",
-        "URBANEX",
         "VH68"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 42 [mm] 50 [m] DESCRIPCIÓN Reloj invicta número de serie 724001 sea para hombres, tamaño de la caja 42 mm de acero inoxidable, tamaño del pulso 215 mm de silicona, color blanco, pulso de 215 mm, resistencia al agua hasta 50 metros DETALLES Material Pulso : Silicona Color Pulso : Blanco Ancho pulso [mm] : 22 Largo pulso [mm] : 215 Color Bisel : Negro BezelMaterial : Metal Marca : INVICTA Calendario : Fecha, día Material Caja : Acero inoxidable Diseño Caja : Circular Color Caja : Acero Ancho Caja [mm] : 42 ClaspType : Regular Cristal : Mineral Color : Blanco País : Japón Tipo de Función : Quartz Género : Hombre LuminousColor : Blanco LuminousMaterial : Tritnita Material : Silicona MovementCaliber : VH68 MovementComponents : Japón MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Quartz Resistencia al Agua [m] : 50 serie : Dream family : TF0807 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -324350,8 +324385,7 @@
         "MED",
         "PARENT_886678672066",
         "URBANEX",
-        "VERDE",
-        "VUELTAPMED"
+        "VERDE"
       ],
       "descripcion": ":description :Type :CaseSize [mm] :WaterResistance [m] DESCRIPCIÓN Pulsera invicta para hombre de acero inoxidable color verde DETALLES Marca : Invicta Color : Verde País : China Género : Hombre Height : 200 Length : 75 Material : Acero Inoxidable Weight : 75 Width : 4 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -418124,8 +418158,7 @@
         "RESINA",
         "SI",
         "URBANEX",
-        "VERDE",
-        "VUELTAP"
+        "VERDE"
       ],
       "descripcion": "La linea de Casio G-SHOCK se encuentra en el mercado desde 1983, ofreciendo un nuevo concepto de resistencia. Los relojes G-SHOCK cuenta con gran durabilidad y están especialmente diseñados para soportar caídas y tratamientos rudos, además de ofrecer resistencia al agua. Análogo-digital 48.5 [mm] 200 [m] DESCRIPCIÓN Reloj g-shock ga2110su-3adr g-shock para hombre, tamaño de la caja 48.5 mm de resina, tamaño del pulso 220 mm de resina, color verde, pulso de 220 mm, resistencia al agua hasta 200 metros DETALLES Garantía : 1 año maquinaria 1 año batería Material Pulso : Resina Color Pulso : Verde Ancho pulso [mm] : 22 Largo pulso [mm] : 220 Color Bisel : Negro Marca : G-SHOCK Calendario : Sí Garantía : 1 año maquinaria 1 año batería Material Caja : Resina Diseño Caja : Circular Color Caja : Negro Ancho Caja [mm] : 48.5 ClaspType : Hebilla Cristal : Mineral Color : Verde País : Japón Tipo de Función : Cuarzo Género : Hombre Garantía : 1 año maquinaria 1 año batería Material : Resina MovementJewels : No SwissMade : No ShortDescription : Los relojes G-Shock de Casio han sido apreciados en todo el mundo por su dureza y resistencia a la rotura incluso cuando se caen. Tipo : Análogo-Digital Resistencia al Agua [m] : 200 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -418144,7 +418177,7 @@
           ],
           "precio": 549900.0,
           "precio_tachado": 1029900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -554439,69 +554472,6 @@
           "variant_id": 52612634607980,
           "sku": "843836070645",
           "barcode": "843836070645",
-          "opciones": "",
-          "opciones_nombres": [
-            "Title"
-          ],
-          "precio": 999900.0,
-          "precio_tachado": 999900.0,
-          "disponible": false,
-          "imagen": null
-        }
-      ]
-    },
-    {
-      "product_id": 14873947963756,
-      "handle": "reloj-para-mujer-invicta-signature-7063-dorado",
-      "url": "https://kronotime.com/products/reloj-para-mujer-invicta-signature-7063-dorado",
-      "nombre": "RELOJ  PARA MUJER INVICTA SIGNATURE 7063 - DORADO",
-      "marca": "INVICTA",
-      "tipo": "RELOJES",
-      "tags": [
-        "100",
-        "14",
-        "205",
-        "27",
-        "585",
-        "ACERO INOXIDABLE",
-        "ACEROINOXIDABLE",
-        "CIRCULAR",
-        "CLASICO",
-        "CUARZO",
-        "DOBLARLASEGURIDAD",
-        "DORADO",
-        "ENVIOGRATIS",
-        "FECHA",
-        "FLAMEFUSION",
-        "INV",
-        "INVICTA",
-        "METAL",
-        "MUJER",
-        "NEGRO",
-        "NINGUNO",
-        "NO",
-        "PF2260",
-        "PLEGABLE",
-        "RELOJES",
-        "RONDA",
-        "SEGURIDAD",
-        "SIGNATURE",
-        "SUIZO",
-        "TRITNITA",
-        "VERDE"
-      ],
-      "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Cuarzo 27 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 7063 signature para mujer, tamaño de la caja 27 mm de acero inoxidable, tamaño del pulso 205 mm de acero inoxidable, color dorado, pulso de 205 mm, resistencia al agua hasta 100 metros DETALLES Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería Material Pulso : Acero Inoxidable Color Pulso : Dorado Ancho pulso [mm] : 14 Largo pulso [mm] : 205 Color Bisel : Negro Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería BezelMaterial : Metal Marca : INVICTA BuckleType : Doblar la seguridad Calendario : Fecha Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería Material Caja : Acero Inoxidable Diseño Caja : Circular Color Caja : Dorado Ancho Caja [mm] : 27 ClaspType : Seguridad, Plegable Cristal : Flame Fusion ChronographFunction : Ninguno Color : Dorado País : suizo Tipo de Función : Cuarzo Género : Mujer Interchangeable : No LuminousColor : Verde Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería LuminousMaterial : Tritnita Garantía : 3 años maquinaria y 3 años batería Garantía : 3 años maquinaria y 1 años batería Material : Acero Inoxidable MovementCaliber : 585 MovementComponents : suizo MovementJewels : No SwissMade : No StoneType : Ninguno Tipo : Cuarzo Resistencia al Agua [m] : 100 family : PF2260 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
-      "imagenes": [
-        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/843836070638.jpg?v=1756399540",
-        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/843836070638_201.jpg?v=1756399540",
-        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/843836070638_202.jpg?v=1756399540",
-        "https://cdn.shopify.com/s/files/1/0541/9879/6483/files/cajaCartonInvicta_2b32fdcf-8407-41e2-8c8f-2e80fed3d493.jpg?v=1756399540"
-      ],
-      "variantes": [
-        {
-          "variant_id": 52612634050924,
-          "sku": "843836070638",
-          "barcode": "843836070638",
           "opciones": "",
           "opciones_nombres": [
             "Title"
