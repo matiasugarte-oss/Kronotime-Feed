@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T18:02:34.252750+00:00",
+  "generado": "2026-11-27T19:13:22.999742+00:00",
   "total": 10000,
   "productos": [
     {
@@ -24095,7 +24095,8 @@
         "gafas Technomarine",
         "MED",
         "TECHNOMARINE",
-        "TMEW011"
+        "TMEW011",
+        "URBANEX"
       ],
       "descripcion": ":description :Type :CaseSize [mm] :WaterResistance [m] DESCRIPCIÓN Gafas technomarine color marron para unisex protección uv100 lente en policarbonato marron de 55 cuadrado DETALLES Marca : technomarine Ancho del puente [mm] : 18 País : china Color : marron Material del Marco : acetato Color del Marco : marron Diseño del Marco : cuadrado Género : Unisex Material del Lente : policarbonato Color del Lente : marron Ancho del Lente [mm] : 55 Material : acetato Name : lentes de sol technomarine tmew011-03 cafe Polarizado : no ShortDescription : lentes de sol technomarine tmew011-03, unisex, montura metal color cafe, lente cuadrado cafe, protección uv400 Largo de las patillas [mm] : 140 Color de las patillas : marron Protección UV : uv100 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -24260,7 +24261,7 @@
           ],
           "precio": 499900.0,
           "precio_tachado": 499900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -339117,6 +339118,7 @@
         "RELOJES",
         "RELOJESINV",
         "SILICONA",
+        "URBANEX",
         "VUELTAP"
       ],
       "descripcion": "Desde su creación hace más de un siglo, Invicta siempre ha brindado innovación a lo largo de su historia. Cada reloj cuenta con una vision y un propósito establecido; diseñado para afrontar las actividades más aventureras. La marca Invicta nos ofrece un estándar de calidad y rendimiento notable. Quartz 45 [mm] 100 [m] DESCRIPCIÓN Reloj invicta 40007 pro diver para hombres, tamaño de la caja 45 mm de acero inoxidable, tamaño del pulso 210 mm de silicona, color negro, pulso de 210 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso Silicona Color Pulso Negro Ancho pulso [mm] 22 Largo pulso [mm] 210 Color Bisel Negro Marca Invicta Calendario Ninguna Material Caja Acero inoxidable Diseño Caja Circular Color Caja Plata Ancho Caja [mm] 45 Cristal Flame Fusion País Japón Tipo de Función Quartz Género Hombre Tipo Quartz Resistencia al Agua [m] 100 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
@@ -339138,7 +339140,7 @@
           ],
           "precio": 299900.0,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
