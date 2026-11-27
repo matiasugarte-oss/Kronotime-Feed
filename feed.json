@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T06:15:56.798009+00:00",
+  "generado": "2026-11-27T07:44:07.487649+00:00",
   "total": 10000,
   "productos": [
     {
@@ -40140,7 +40140,7 @@
           ],
           "precio": 862425.0,
           "precio_tachado": 1149900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
