@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-28T16:00:27.378761+00:00",
+  "generado": "2026-11-28T17:02:06.823749+00:00",
   "total": 10000,
   "productos": [
     {
@@ -186416,8 +186416,7 @@
         "PARENT_4549526383175",
         "PLATEADO",
         "RECTANGULAR",
-        "RELOJ CASIO ANALoGI",
-        "URBANEX"
+        "RELOJ CASIO ANALoGI"
       ],
       "descripcion": ":description Análogo 32 [mm] 20 [m] DESCRIPCIÓN Reloj casio ltp-1234dd-5adf core ladies para mujer, tamaño de la caja 32 mm de acero inoxidable, tamaño del pulso 210 mm de acero inoxidable, color plateado, pulso de 210 mm, resistencia al agua hasta 20 metros DETALLES Material Pulso : Acero Inoxidable Color Pulso : Plateado Ancho pulso [mm] : 20 Largo pulso [mm] : 210 Color Bisel : Café Marca : Casio Calendario : No Material Caja : Acero Inoxidable Diseño Caja : Rectangular Color Caja : Plateado Ancho Caja [mm] : 32 ClaspType : Desplegable Cristal : Mineral Color : Plateado País : China Tipo de Función : Cuarzo Género : Mujer Material : Acero Inoxidable MovementJewels : No SwissMade : No ShortDescription : Reloj Casio analógico de acero inoxidable con esfera café y cuarzo para mujer. Tipo : Análogo Resistencia al Agua [m] : 20 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -220972,7 +220971,8 @@
         "SINGAPUR",
         "TECHNOMARINE",
         "TF1196",
-        "TMI"
+        "TMI",
+        "URBANEX"
       ],
       "descripcion": "Reloj technomarine tm-416071 coral para hombres, tamaño de la caja 45 mm de plástico, acero inoxidable, tamaño del pulso 200 mm de silicona, color negro, pulso de 200 mm, resistencia al agua hasta 100 metros Quartz 45 [mm] 100 [m] DESCRIPCIÓN Reloj technomarine tm-416071 coral para hombres, tamaño de la caja 45 mm de plástico, acero inoxidable, tamaño del pulso 200 mm de silicona, color negro, pulso de 200 mm, resistencia al agua hasta 100 metros DETALLES Material Pulso : Silicona Color Pulso : Negro Ancho pulso [mm] : 28 Largo pulso [mm] : 200 Color Bisel : Negro BezelMaterial : Metal Marca : Technomarine BuckleType : - Material Caja : Plástico, acero inoxidable Diseño Caja : Circular Color Caja : Negro, oro rosa Ancho Caja [mm] : 45 ClaspType : - Cristal : Mineral Color : Negro País : Singapur Tipo de Función : Quartz Género : Hombre LuminousColor : Ninguno LuminousMaterial : Ninguno Material : Silicona MovementCaliber : PC32 MovementComponents : Singapur MovementJewels : No SwissMade : No Tipo : Quartz Resistencia al Agua [m] : 100 serie : Coral Legacy family : TF1196 Devoluciones fáciles El consumidor deberá devolver el producto a KRONOTIME S.A.S. por los mismos medios y en las mismas condiciones en que lo recibió. Los costos de transporte y los demás que conlleve la devolución del bien serán cubiertos por el consumidor. El término máximo para ejercer el derecho de retracto será de diez (10) días hábiles contados a partir de la entrega del bien Necesitas ayuda Comunícate con nuestros equipo de servicio al cliente dando clic",
       "imagenes": [
@@ -227740,7 +227740,7 @@
           ],
           "precio": 642475.0,
           "precio_tachado": 1499900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
