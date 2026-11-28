@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-28T13:16:18.712892+00:00",
+  "generado": "2026-11-28T14:17:02.304963+00:00",
   "total": 10000,
   "productos": [
     {
@@ -227741,7 +227741,7 @@
           ],
           "precio": 642475.0,
           "precio_tachado": 1499900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -399396,7 +399396,7 @@
           ],
           "precio": 499899.96,
           "precio_tachado": 879900.0,
-          "disponible": true,
+          "disponible": false,
           "imagen": null
         }
       ]
@@ -465114,6 +465114,7 @@
         "SCUBA",
         "TMI",
         "TRITNITA",
+        "URBANEX",
         "VD53",
         "VERDE",
         "VUELTAP",
